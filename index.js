@@ -135,7 +135,27 @@ var QUOTES = [
     "We will have so much winning if I get elected that you may get bored with winning.",
     "Stop the EBOLA patients from entering the U.S. Treat them, at the highest level, over there. THE UNITED STATES HAS ENOUGH PROBLEMS!",
     "Every successful person has a very large ego.",
-    "When you're a star, they let you do it. You can do anythin. Grab them by the blank. You can do anything."
+    "When you're a star, they let you do it. You can do anythin. Grab them by the blank. You can do anything.",
+    "Watched protests yesterday but was under the impression that we just had an election! Why didn’t these people vote? Celebs hurt cause badly.",
+    "We are going to have an unbelievable, perhaps record-setting turnout for the inauguration, and there will be plenty of movie and entertainment stars. All the dress shops are sold out in Washington. It’s hard to find a great dress for this inauguration.",
+    "Happy New Year to all, including to my many enemies and those who have fought me and lost so badly they just don’t know what to do. Love!",
+    "I am asking the chairs of the House and Senate committees to investigate top secret intelligence shared with NBC prior to me seeing it.",
+    "We are transferring power from Washington D.C. and giving it back to you. The people.",
+    "To be clear, this is not a Muslim ban, as the media is falsely reporting. This is not about religion -- this is about terror and keeping our country safe.",
+    "America has always been the land of the free and home of the brave. We will keep it free and keep it safe, as the media knows, but refuses to say.",
+    "There is nothing nice about searching for terrorists before they can enter our country. This was a big part of my campaign. Study the world!",
+    "If the ban were announced with a one week notice, the bad would rush into our country during that week. A lot of bad dudes out there!",
+    "Protesters and the tears of Senator Schumer. Secretary Kelly said that all is going well with very few problems. MAKE AMERICA SAFE AGAIN!",
+    "Somebody with aptitude and conviction should buy the FAKE NEWS and failing @nytimes and either run it correctly or let it fold with dignity!",
+    "Our country needs strong borders and extreme vetting, NOW. Look what is happening all over Europe and, indeed, the world - a horrible mess!",
+    "Iran is rapidly taking over more and more of Iraq even after the U.S. has squandered three trillion dollars there. Obvious long ago!",
+    "When will the Democrats give us our Attorney General and rest of Cabinet! They should be ashamed of themselves! No wonder D.C. doesn't work!",
+    "Nancy Pelosi and Fake Tears Chuck Schumer held a rally  at the steps of The Supreme Court and mic did not work (a mess)-just like Dem party!",
+    "Where was all the outrage from Democrats and the opposition party (the media) when our jobs were fleeing our country?",
+    "I will be America's greatest defender and most loyal champion.",
+    "Mexico has taken advantage of the U.S. for long enough. Massive trade deficits & little help on the very weak border must change, NOW!",
+    "If Chicago doesn't fix the horrible carnage going on, 228 shootings in 2017 with 42 killings (up 24% from 2016), I will send in the Feds!",
+    "I am honored to serve you, the great American People, as your 45th President of the United States!"
 ];
 
 /**
